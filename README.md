@@ -1,6 +1,6 @@
 # DRSI: Decision-Robust Selection Index
 
-Analysis code accompanying the paper **"Beyond the Pareto front: a decision-robust index for selecting groundwater management strategies from explainable post-optimality analysis"** (Mishra et al., submitted to *Journal of Hydrology*).
+Analysis code accompanying the paper **"Beyond the Pareto front: a decision-robust index for selecting groundwater management strategies from explainable post-optimality analysis"** (Mishra et al., ).
 
 ## Overview
 
